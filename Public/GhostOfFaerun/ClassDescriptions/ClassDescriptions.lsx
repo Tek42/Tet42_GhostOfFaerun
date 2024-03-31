@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="314"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hac8fca979f654dfda8256520d58ddd757g6b" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="heca8b31b7f404ddab280d95799e0afc3157c" version="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.34000000000000002"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="GhostOfFaerun"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ParentGuid" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="61e03948-5bd2-4680-9869-9d2d25389003"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="27e669b9-f00d-430d-8eed-68961bb839a2"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

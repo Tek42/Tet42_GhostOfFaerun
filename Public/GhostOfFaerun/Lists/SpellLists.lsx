@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 3" />
+          <attribute id="Spells" type="LSString" value="GF_WayOfTheFlame;GF_BladeFlourish_Defensive;GF_PoisonShot" />
+          <attribute id="UUID" type="guid" value="c747ce4d-3b24-4f48-af02-186828d5780b" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 4" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="bf66845f-8d01-4a69-8d6d-200b576a71bc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 5" />
+          <attribute id="Spells" type="LSString" value="GF_GracefulStrike;GF_BraceOfKunai" />
+          <attribute id="UUID" type="guid" value="1a4d2c3c-efb8-4a2a-8739-9117335a9040" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 6" />
+          <attribute id="Spells" type="LSString" value="GF_Brand;GF_BladeFlourish_Mobile" />
+          <attribute id="UUID" type="guid" value="255c26c7-fbbb-4218-9f22-bcdff2569cef" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 7" />
+          <attribute id="Spells" type="LSString" value="GF_ShadowStrike;GF_SmokeBomb" />
+          <attribute id="UUID" type="guid" value="96c70044-c499-4270-8d03-a8c1bcba13d5" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 8" />
+          <attribute id="Spells" type="LSString" value="GF_FrostShot" />
+          <attribute id="UUID" type="guid" value="2818a728-79ec-4001-bf96-309c8a3b71c9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 9" />
+          <attribute id="Spells" type="LSString" value="GF_ExplosiveShot" />
+          <attribute id="UUID" type="guid" value="5825b3e7-0cf4-4042-bc61-af10adc0d50e" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 10" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="cb41470b-16cb-46e9-858c-ed46515f54c2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 11" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="0b72571f-0ea6-4e65-bfc8-6af6dd4e0a93" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GF Level 12" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="a5dbfe82-ba41-4957-9306-96ddb70cc28d" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

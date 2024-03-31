@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="GhostOfFaerun" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hac8fca979f654dfda8256520d58ddd757g6b" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="heca8b31b7f404ddab280d95799e0afc3157c" version="1" />
+			<attribute id="Icon" type="FixedString" value="GhostOfFaerun" />
+			<attribute id="Name" type="FixedString" value="GhostOfFaerun" />
+			<attribute id="UUID" type="guid" value="27e669b9-f00d-430d-8eed-68961bb839a2" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

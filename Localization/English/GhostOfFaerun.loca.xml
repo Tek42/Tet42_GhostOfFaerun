@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+
+    <content contentuid="hac8fca979f654dfda8256520d58ddd757g6b" version="1">Ghost of Faerun</content>
+    <content contentuid="heca8b31b7f404ddab280d95799e0afc3157c" version="1">The Ghost of Faerun is a nomadic warrior much like a Samurai. But they also seem to have an innate command and authority over lesser creatures. Using their unique Brand mechanic they can fully dominate and control one target for a time.</content>
+    <content contentuid="hdd5674e78f9e4c10a91cbfd31c69dd1c0429" version="1">Summon Ghost Weapons</content>
+    <content contentuid="h5763ed8eed7d4d5f81f0c282c458f43e1f66" version="1">This spell summons a level appropriate Katana and Long Bow</content>
+    <content contentuid="ha4be503ea62e4b1ca7eb7a3038ecde741809" version="1">Poison Shot</content>
+    <content contentuid="h46874c0c1bf0430487df32ac6132d2c6eb7e" version="1">Fires a poisonous arrow that damages the target and creates a bubbling surface to &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt; creatures. </content>
+    <content contentuid="hb51a99f1146d4701aa6029af6b9da813cf5a" version="1">Frost Shot</content>
+    <content contentuid="h6f2e179eb21e4df9ab7cf281b9446bd62c05" version="1">Fires a cold arrow that damages the target and possibly freezes them solid for 2 turns.</content>
+    <content contentuid="h7bfee8922ea54b0bb81e71070d48a46809f4" version="1">Explosive Shot</content>
+    <content contentuid="h41799b8f20564173ab2f80ba7c0ef2d3af81" version="1">Fires an arrow that explodes on impact.</content>
+    <content contentuid="h9d367f948bc04015a5a17ff524c922d79b61" version="1">Way of the Flame</content>
+    <content contentuid="hb6e663d7eb994700831886faf6de83c71e48" version="1">Imbue your weapon with fiery might. It receives a +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and deals an additional [1].</content>
+    <content contentuid="hccf95915f2ea43348e772a4043d358fc93f5" version="1">Ghost Shot</content>
+    <content contentuid="ha0375915428e469c9a15aa3237d2f20f7d23" version="1">A ranged resource that is recharged on combat end or by entering stealth. Can also regain 3 shot by using the Consume skill.</content>
+    <content contentuid="h8a0b00aca2b543b2b8774c81e2c899c243fd" version="1">Resolve</content>
+    <content contentuid="h6503459613e543a19f5aff001016ce5883gb" version="1">Used as a resource for certain abilities.</content>
+    <content contentuid="h52c3ca1aab194d18a804eda0165421c16fb3" version="1">Shadow Strike</content>
+    <content contentuid="h24c0d4d15e1743ff97358bf77a1f353ab6b4" version="1">A ranged strike that teleports you to your target and does a melee attack.</content>
+    <content contentuid="hf177302f2cde4ba8a118ab48ba4f7f4114e0" version="1">Ghost Parry</content>
+    <content contentuid="h6451a18d718e47bd9e2dabbf9abc1f19de5c" version="1">Ghost Perfect Parry</content>
+    <content contentuid="hcf19734ded484c0d9075c87dfea0248524e4" version="1">Parry unarmed and weapon attacks to reduce their damage by [1].</content>
+    <content contentuid="h245c6c9c0e014a98a6d25f3dab88bcd0cg40" version="1">Ghost Dodge</content>
+    <content contentuid="h3a1ca93c3f194bfe9a69c91205e36950f387" version="1">Banished From Death</content>
+    <content contentuid="h36d69eaf624b47f091e1c47d9a97609bbe1a" version="1">If the character reaches 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, it regains [1] instead of falling Unconscious.</content>
+    <content contentuid="h71170b5c3be44fdbb439854f6dba0bd96201" version="1">Immune to Smoke Blindness</content>
+    <content contentuid="ha7b852f273d34d099080314a3cb3af1bf0e7" version="1">Immune to being &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; by your smoke bomb for 2 turns.</content>
+    <content contentuid="h2e715b2cabeb4edbb3367bd5bdffac9c7c0c" version="1">Graceful Strike</content>
+    <content contentuid="h7f71da672131474f90bf21f241d2ed98e05g" version="1">A graceful melee attack that does extra damage against dazed enemies.</content>
+    <content contentuid="h518abc6f27264c50bd294a9551443d4d20de" version="1">Brace of Kunai</content>
+    <content contentuid="h768756d46e4e45dca520d579ca8a09fagfg6" version="1">Ranged attack that targets up to 5 enemies, does 4 damage to each, and has a chance to daze and reduce movement speed for 2 turns.</content>
+    <content contentuid="h06b8490551ea4ace9423e4a4fc13820eb288" version="1">Brand</content>
+    <content contentuid="hf40763eeb43f4ddb865163c1d67571835e4b" version="1">Force an enemy to fight alongside you. Every time the enemy takes damage, it makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your domination.</content>
+    <content contentuid="h568ed34178094ce0a88b7d6b92172ed359bb" version="1">Branded</content>
+    <content contentuid="hc5f520681cc64bee82736b22dbd9dbf8d68b" version="1">This enemy is dominated and fights for you.</content>
+    <content contentuid="h3932f9dce145459f8b3533bf52dd0ebce711" version="1">Ghost Cleave</content>
+    <content contentuid="hff987a053799491d8479ddb066bcf25d2be2" version="1">Attack enemies in a cone which summons a strong wind that clears cloud surfaces and damages up to 6 creatures for 1/2 melee damage and forces them &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;Off Balance&lt;/LSTag&gt;.</content>
+    <content contentuid="h9085957596234654952d08414ef6179b074b" version="1">Brutalize</content>
+    <content contentuid="he21c9e36107349dea9dc5440327080e5d0g7" version="1">Ghost Improved</content>
+    <content contentuid="h0c961216d75540e0aba44cd373b5a38b5e40" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 1. Additionally you receive one more Reaction Point.</content>
+    <content contentuid="h2ef3030a4f934b40aad66f09cfa8bea14b21" version="1">Ghost Perfected</content>
+    <content contentuid="hf3fb24a9b1c54cd38eac66153bd69e72ea5d" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 2. Additionally you receive one more Reaction Point, bringing your total to three.</content>
+</contentList>

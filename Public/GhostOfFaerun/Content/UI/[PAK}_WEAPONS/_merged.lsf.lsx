@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8b2ddddf-d40d-458d-a2a7-72b505317e3d" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Katana_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="055d2b80-e866-e75c-358f-0657933137d9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostKatana_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.212115" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ec9f9c31-c2bc-4b99-9d60-f164ef0ede8c" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Katana_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="055d2b80-e866-e75c-358f-0657933137d9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostKatana_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.212115" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="540144f9-d0d0-4349-9d1d-d240f997ceda" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Katana_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="055d2b80-e866-e75c-358f-0657933137d9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostKatana_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.212115" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="364e6fcd-83cb-4bf2-99e7-953d4dec5852" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Katana_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="055d2b80-e866-e75c-358f-0657933137d9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostKatana_4" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725669" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.212115" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.05024404 0.06694297 0.2622833" />
+									<attribute id="Min" type="fvec3" value="-0.06093429 -0.03287733 -1.288695" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h611ff67egb70eg4147gb951g662697482631" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc5b60b03g146fg419fg8237g129d74a5ef1e" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="25c5fd12-103c-4ff2-bffb-82f9e78f1459" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Longbow_A_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="ebd9cf7e-35a1-2325-1a25-3cd4ce9bdc13" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostBow_1" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6bf602f5-fc45-196a-d6c6-b7a69fd24b98" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2069678 0.06602085 0.9730957" />
+									<attribute id="Min" type="fvec3" value="-0.3112661 -0.01224288 -0.9730957" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2069678 0.06602085 0.9730957" />
+									<attribute id="Min" type="fvec3" value="-0.3112661 -0.01224288 -0.9730957" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.1034839 0.06602085 0.4865478" />
+									<attribute id="Min" type="fvec3" value="-0.155633 -0.01224288 -0.4865478" />
+									<attribute id="Radius" type="float" value="0.233404" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h611ff67egb70eg4147gb951g662697482631" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc5b60b03g146fg419fg8237g129d74a5ef1e" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="353445d0-ed7c-415c-82c4-cf74c6feb27c" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Longbow_A_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="ebd9cf7e-35a1-2325-1a25-3cd4ce9bdc13" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostBow_2" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6bf602f5-fc45-196a-d6c6-b7a69fd24b98" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2069678 0.06602085 0.9730957" />
+									<attribute id="Min" type="fvec3" value="-0.3112661 -0.01224288 -0.9730957" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2069678 0.06602085 0.9730957" />
+									<attribute id="Min" type="fvec3" value="-0.3112661 -0.01224288 -0.9730957" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.1034839 0.06602085 0.4865478" />
+									<attribute id="Min" type="fvec3" value="-0.155633 -0.01224288 -0.4865478" />
+									<attribute id="Radius" type="float" value="0.233404" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h31ed7786g4eceg4fecg8c2cg9107418a6c75" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he5e0e95bgeb1dg4ce0gb982g3ce97b7bd3d1" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8d570970-bc0d-4ac3-8ad4-6f73f3b28f18" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Longbow_A_2_NOT_APPROVED" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="3b59f4aa-474c-927b-0adf-ca22245fcad9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostBow_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="4a95e34d-f57c-3c02-ca6a-1f8b0900f707" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2050533 0.06602054 0.9179211" />
+									<attribute id="Min" type="fvec3" value="-0.1267705 -0.01224317 -0.9179211" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.1025266 0.06602054 0.4589606" />
+									<attribute id="Min" type="fvec3" value="-0.06338523 -0.01224317 -0.4589606" />
+									<attribute id="Radius" type="float" value="0.233404" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2050533 0.06602054 0.9179211" />
+									<attribute id="Min" type="fvec3" value="-0.1267705 -0.01224317 -0.9179211" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h31ed7786g4eceg4fecg8c2cg9107418a6c75" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he5e0e95bgeb1dg4ce0gb982g3ce97b7bd3d1" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="38796ec4-77da-41c4-89a8-084873fefcad" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Longbow_A_2_NOT_APPROVED" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="3b59f4aa-474c-927b-0adf-ca22245fcad9" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_GhostBow_4" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="4a95e34d-f57c-3c02-ca6a-1f8b0900f707" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2050533 0.06602054 0.9179211" />
+									<attribute id="Min" type="fvec3" value="-0.1267705 -0.01224317 -0.9179211" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.1025266 0.06602054 0.4589606" />
+									<attribute id="Min" type="fvec3" value="-0.06338523 -0.01224317 -0.4589606" />
+									<attribute id="Radius" type="float" value="0.233404" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0782637" />
+									<attribute id="Max" type="fvec3" value="0.2050533 0.06602054 0.9179211" />
+									<attribute id="Min" type="fvec3" value="-0.1267705 -0.01224317 -0.9179211" />
+									<attribute id="Radius" type="float" value="0.466808" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

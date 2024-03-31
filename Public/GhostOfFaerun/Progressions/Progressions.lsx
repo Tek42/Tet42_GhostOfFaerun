@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c747ce4d-3b24-4f48-af02-186828d5780b,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Archery;GF_GhostShot_Passive;GF_Resolve_Passive" />
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="1bda5480-f8ff-4cd6-9218-0abd6ffa507b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="GF_BANISHED_FROM_DEATH"/>
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="GF_GhostDodge" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="a5c7a0fe-91db-4f71-85ab-acc98f89ba50"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1a4d2c3c-efb8-4a2a-8739-9117335a9040,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="GF_Ghost_Improved;DeflectMissiles;GF_Parry_Passive" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="a23d7b9d-484e-4249-b403-a24b0cde344a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(255c26c7-fbbb-4218-9f22-bcdff2569cef,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="a121024b-34a3-42a4-a6dd-454e99f5a24c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(96c70044-c499-4270-8d03-a8c1bcba13d5,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="SneakAttack_Unlock;RemarkableAthlete_Proficiency;RemarkableAthlete_Jump" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="e78fd5da-eaa7-4380-a1fb-2f86450cfce1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2818a728-79ec-4001-bf96-309c8a3b71c9,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="ba7550fb-9131-4fe3-a12f-5902366fefaf"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5825b3e7-0cf4-4042-bc61-af10adc0d50e,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="07ef4b79-c7e4-4735-abd3-d5fb41bad926"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="GS_Ghost_Perfected;GF_PerfectParry_Passive" />
+                    <attribute id="PassivesRemoved" type="LSString" value="GS_Ghost_Improved;GF_Parry_Passive" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="922be402-3596-445f-a1a8-b3083f4f0f5a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="d3c9e343-bf81-4244-838d-33068ab22a8d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
+                    <attribute id="UUID" type="guid" value="701f02a0-c2ae-4f18-92d3-46a28956ce53"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
