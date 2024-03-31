@@ -11,7 +11,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="GF Level 4" />
-          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="Spells" type="LSString" value="GF_BanishedFromDeath" />
           <attribute id="UUID" type="guid" value="bf66845f-8d01-4a69-8d6d-200b576a71bc" />
         </node>
         <node id="SpellList">

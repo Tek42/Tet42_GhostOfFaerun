@@ -42,4 +42,7 @@
     <content contentuid="h0c961216d75540e0aba44cd373b5a38b5e40" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 1. Additionally you receive one more Reaction Point.</content>
     <content contentuid="h2ef3030a4f934b40aad66f09cfa8bea14b21" version="1">Ghost Perfected</content>
     <content contentuid="hf3fb24a9b1c54cd38eac66153bd69e72ea5d" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 2. Additionally you receive one more Reaction Point, bringing your total to three.</content>
+    <content contentuid="h3c0430b9fbb24812a6d1decaf409cf1c7a35" version="1">Reduce the damage from a ranged weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Resolve Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Missiles"&gt;Deflect the Missile&lt;/LSTag&gt;.</content>
+    <content contentuid="h50c40cd8b9474c89987cb7fee23207a5adcd" version="1">Smoke Bomb</content>
+    <content contentuid="hd3724567f06f4a03844723701336e18da64g" version="1">Drops a smoke bomb at your feet which turns you invisible for 3 turns and makes a small fog cloud to obscure enemy sight.</content>
 </contentList>
