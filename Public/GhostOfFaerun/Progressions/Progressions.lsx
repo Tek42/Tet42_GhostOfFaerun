@@ -9,7 +9,7 @@
                     <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(c747ce4d-3b24-4f48-af02-186828d5780b,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Archery;GF_GhostShot_Passive;GF_Resolve_Passive" />
+                    <attribute id="PassivesAdded" type="LSString" value="Summon_GhostGear_1;FightingStyle_Archery;GF_GhostShot_Passive;GF_Resolve_Passive" />
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
                     <attribute id="UUID" type="guid" value="1bda5480-f8ff-4cd6-9218-0abd6ffa507b"/>
@@ -37,7 +37,8 @@
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(255c26c7-fbbb-4218-9f22-bcdff2569cef,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Summon_GhostGear_2" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Summon_GhostGear_1" />
                     <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -67,7 +68,8 @@
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(5825b3e7-0cf4-4042-bc61-af10adc0d50e,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Summon_GhostGear_3" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Summon_GhostGear_2" />
                     <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -97,8 +99,9 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a5dbfe82-ba41-4957-9306-96ddb70cc28d,,,,AlwaysPrepared)" />
+                    <attribute id="PassivesAdded" type="LSString" value="Summon_GhostGear_4" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Summon_GhostGear_3" />
                     <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
