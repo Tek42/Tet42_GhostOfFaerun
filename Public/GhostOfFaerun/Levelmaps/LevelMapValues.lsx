@@ -6,18 +6,10 @@
             <children>
                 <node id="LevelMapSeries">
                     <attribute id="Level2" type="LSString" value=""/>
-                    <attribute id="Level20" type="LSString" value="2d10"/>
                     <attribute id="Level1" type="LSString" value=""/>
                     <attribute id="Level10" type="LSString" value="1d8"/>
                     <attribute id="Level11" type="LSString" value="1d8"/>
                     <attribute id="Level12" type="LSString" value="1d10"/>
-                    <attribute id="Level13" type="LSString" value="1d10"/>
-                    <attribute id="Level14" type="LSString" value="1d10"/>
-                    <attribute id="Level15" type="LSString" value="2d6"/>
-                    <attribute id="Level16" type="LSString" value="2d6"/>
-                    <attribute id="Level17" type="LSString" value="2d6"/>
-                    <attribute id="Level18" type="LSString" value="2d8"/>
-                    <attribute id="Level19" type="LSString" value="2d8"/>
                     <attribute id="Level3" type="LSString" value="1d4"/>
                     <attribute id="Level4" type="LSString" value="1d4"/>
                     <attribute id="Level5" type="LSString" value="1d4"/>
@@ -30,18 +22,10 @@
                 </node>
                 <node id="LevelMapSeries">
                     <attribute id="Level2" type="LSString" value=""/>
-                    <attribute id="Level20" type="LSString" value="2d10"/>
                     <attribute id="Level1" type="LSString" value=""/>
                     <attribute id="Level10" type="LSString" value="1d8"/>
                     <attribute id="Level11" type="LSString" value="1d8"/>
                     <attribute id="Level12" type="LSString" value="1d10"/>
-                    <attribute id="Level13" type="LSString" value="1d10"/>
-                    <attribute id="Level14" type="LSString" value="1d10"/>
-                    <attribute id="Level15" type="LSString" value="2d6"/>
-                    <attribute id="Level16" type="LSString" value="2d6"/>
-                    <attribute id="Level17" type="LSString" value="2d6"/>
-                    <attribute id="Level18" type="LSString" value="2d8"/>
-                    <attribute id="Level19" type="LSString" value="2d8"/>
                     <attribute id="Level3" type="LSString" value="1d4"/>
                     <attribute id="Level4" type="LSString" value="1d4"/>
                     <attribute id="Level5" type="LSString" value="1d4"/>

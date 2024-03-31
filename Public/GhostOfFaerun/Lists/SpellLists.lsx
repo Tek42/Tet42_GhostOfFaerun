@@ -21,7 +21,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="GF Level 6" />
-          <attribute id="Spells" type="LSString" value="GF_Brand;GF_BladeFlourish_Mobile" />
+          <attribute id="Spells" type="LSString" value="GF_Brand;GF_BladeFlourish_Mobile;GF_WeaponSweep" />
           <attribute id="UUID" type="guid" value="255c26c7-fbbb-4218-9f22-bcdff2569cef" />
         </node>
         <node id="SpellList">

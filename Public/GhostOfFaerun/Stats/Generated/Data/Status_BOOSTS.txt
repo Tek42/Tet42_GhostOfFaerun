@@ -1,7 +1,13 @@
 new entry "GF_RESOLVE_DEF_GAIN"
 	type "StatusData"
 		data "StatusType" "BOOST"
-		data "Boosts" "ActionResource(Tet42_GF_Resolve,1,0)"
+		data "Boosts" "RestoreResource(Tet42_GF_Resolve,1,0)"
+		data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead"
+
+new entry "GF_GHOSTSHOT_INVIS"
+	type "StatusData"
+		data "StatusType" "BOOST"
+		data "Boosts" "RestoreResource(Tet42_GF_GhostShot,50%,0)"
 		data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead"
 
 new entry "GF_ELEMENTAL_WEAPON_FIRE"

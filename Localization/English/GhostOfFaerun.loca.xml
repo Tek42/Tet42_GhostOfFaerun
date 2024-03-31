@@ -14,15 +14,16 @@
     <content contentuid="h9d367f948bc04015a5a17ff524c922d79b61" version="1">Way of the Flame</content>
     <content contentuid="hb6e663d7eb994700831886faf6de83c71e48" version="1">Imbue your weapon with fiery might. It receives a +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and deals an additional [1].</content>
     <content contentuid="hccf95915f2ea43348e772a4043d358fc93f5" version="1">Ghost Shot</content>
-    <content contentuid="ha0375915428e469c9a15aa3237d2f20f7d23" version="1">A ranged resource that is recharged on combat end or by entering stealth. Can also regain 3 shot by using the Consume skill.</content>
+    <content contentuid="ha0375915428e469c9a15aa3237d2f20f7d23" version="1">A ranged resource that is recharged by entering stealth or at the end of combat.</content>
     <content contentuid="h8a0b00aca2b543b2b8774c81e2c899c243fd" version="1">Resolve</content>
-    <content contentuid="h6503459613e543a19f5aff001016ce5883gb" version="1">Used as a resource for certain abilities.</content>
+    <content contentuid="h6503459613e543a19f5aff001016ce5883gb" version="1">A resource used for certain abilities that is recharged when using reactions or at the end of combat.</content>
     <content contentuid="h52c3ca1aab194d18a804eda0165421c16fb3" version="1">Shadow Strike</content>
     <content contentuid="h24c0d4d15e1743ff97358bf77a1f353ab6b4" version="1">A ranged strike that teleports you to your target and does a melee attack.</content>
     <content contentuid="hf177302f2cde4ba8a118ab48ba4f7f4114e0" version="1">Ghost Parry</content>
     <content contentuid="h6451a18d718e47bd9e2dabbf9abc1f19de5c" version="1">Ghost Perfect Parry</content>
     <content contentuid="hcf19734ded484c0d9075c87dfea0248524e4" version="1">Parry unarmed and weapon attacks to reduce their damage by [1].</content>
     <content contentuid="h245c6c9c0e014a98a6d25f3dab88bcd0cg40" version="1">Ghost Dodge</content>
+    <content contentuid="h0e67aa1040294f00ac4fabcbb116dbc19dg6" version="1">On a hit, receive half damage from a foe's attack.</content>
     <content contentuid="h3a1ca93c3f194bfe9a69c91205e36950f387" version="1">Banished From Death</content>
     <content contentuid="h36d69eaf624b47f091e1c47d9a97609bbe1a" version="1">If the character reaches 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, it regains [1] instead of falling Unconscious.</content>
     <content contentuid="h71170b5c3be44fdbb439854f6dba0bd96201" version="1">Immune to Smoke Blindness</content>
@@ -30,7 +31,7 @@
     <content contentuid="h2e715b2cabeb4edbb3367bd5bdffac9c7c0c" version="1">Graceful Strike</content>
     <content contentuid="h7f71da672131474f90bf21f241d2ed98e05g" version="1">A graceful melee attack that does extra damage against dazed enemies.</content>
     <content contentuid="h518abc6f27264c50bd294a9551443d4d20de" version="1">Brace of Kunai</content>
-    <content contentuid="h768756d46e4e45dca520d579ca8a09fagfg6" version="1">Ranged attack that targets up to 5 enemies, does 4 damage to each, and has a chance to daze and reduce movement speed for 2 turns.</content>
+    <content contentuid="h768756d46e4e45dca520d579ca8a09fagfg6" version="1">Ranged attack that targets up to 5 enemies, does 1d4 damage to each, and has a chance to daze and reduce movement speed for 2 turns.</content>
     <content contentuid="h06b8490551ea4ace9423e4a4fc13820eb288" version="1">Brand</content>
     <content contentuid="hf40763eeb43f4ddb865163c1d67571835e4b" version="1">Force an enemy to fight alongside you. Every time the enemy takes damage, it makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your domination.</content>
     <content contentuid="h568ed34178094ce0a88b7d6b92172ed359bb" version="1">Branded</content>
@@ -45,4 +46,7 @@
     <content contentuid="h3c0430b9fbb24812a6d1decaf409cf1c7a35" version="1">Reduce the damage from a ranged weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Resolve Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Missiles"&gt;Deflect the Missile&lt;/LSTag&gt;.</content>
     <content contentuid="h50c40cd8b9474c89987cb7fee23207a5adcd" version="1">Smoke Bomb</content>
     <content contentuid="hd3724567f06f4a03844723701336e18da64g" version="1">Drops a smoke bomb at your feet which turns you invisible for 3 turns and makes a small fog cloud to obscure enemy sight.</content>
+    <content contentuid="h01d8f63a55774688818e2354b8f90ca915a1" version="1">Ghost Katana</content>
+    <content contentuid="hadf48ccddc6d4b6292d1b268819b1697dc21" version="1">Ghost Longbow</content>
+    <content contentuid="h0e67aa1040294f00ac4fabcbb116dbc19dg6" version="1">On a hit, receive half damage from a foe's attack.</content>
 </contentList>

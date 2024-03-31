@@ -10,7 +10,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="CoverAmount" type="uint8" value="0" />
 					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h01d8f63a55774688818e2354b8f90ca915a1" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
 					<attribute id="IsPointerBlocker" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -91,7 +91,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="CoverAmount" type="uint8" value="0" />
 					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h01d8f63a55774688818e2354b8f90ca915a1" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
 					<attribute id="IsPointerBlocker" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -172,7 +172,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="CoverAmount" type="uint8" value="0" />
 					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h01d8f63a55774688818e2354b8f90ca915a1" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
 					<attribute id="IsPointerBlocker" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -253,7 +253,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="CoverAmount" type="uint8" value="0" />
 					<attribute id="Description" type="TranslatedString" handle="hccebbf40g138fg422ega113g7a0869715627" version="2" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h92819002g6e2fg49aag99edg72630778bfc8" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h01d8f63a55774688818e2354b8f90ca915a1" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Katana_A" />
 					<attribute id="IsPointerBlocker" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -331,7 +331,7 @@
 				<node id="GameObjects">
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h611ff67egb70eg4147gb951g662697482631" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hc5b60b03g146fg419fg8237g129d74a5ef1e" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hadf48ccddc6d4b6292d1b268819b1697dc21" version="2" />
 					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
@@ -406,7 +406,7 @@
 				<node id="GameObjects">
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h611ff67egb70eg4147gb951g662697482631" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hc5b60b03g146fg419fg8237g129d74a5ef1e" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hadf48ccddc6d4b6292d1b268819b1697dc21" version="2" />
 					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
@@ -480,7 +480,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h31ed7786g4eceg4fecg8c2cg9107418a6c75" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he5e0e95bgeb1dg4ce0gb982g3ce97b7bd3d1" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hadf48ccddc6d4b6292d1b268819b1697dc21" version="2" />
 					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -527,7 +527,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h31ed7786g4eceg4fecg8c2cg9107418a6c75" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he5e0e95bgeb1dg4ce0gb982g3ce97b7bd3d1" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hadf48ccddc6d4b6292d1b268819b1697dc21" version="2" />
 					<attribute id="EquipmentTypeID" type="guid" value="bf90a760-4f63-416d-969d-0ec12872e8d5" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longbow_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />

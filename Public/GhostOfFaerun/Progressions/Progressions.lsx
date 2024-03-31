@@ -9,7 +9,7 @@
                     <attribute id="Name" type="LSString" value="GhostOfFaerun"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(c747ce4d-3b24-4f48-af02-186828d5780b,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="SummonGhostGear_1;FightingStyle_Archery;GF_GhostShot_Passive;GF_Resolve_Passive" />
+                    <attribute id="PassivesAdded" type="LSString" value="SummonGhostGear_1;FightingStyle_Archery;GF_GhostShot_Passive;GF_Resolve_Passive;GF_EndCombatResources" />
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="b51eaf7a-87ee-4bc8-b94a-3b4fb02dc85c"/>
                     <attribute id="UUID" type="guid" value="1bda5480-f8ff-4cd6-9218-0abd6ffa507b"/>
